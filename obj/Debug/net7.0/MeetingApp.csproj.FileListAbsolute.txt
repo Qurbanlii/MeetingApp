@@ -28,3 +28,6 @@ C:\Users\ACER\Desktop\MeetingApp\obj\Debug\net7.0\refint\MeetingApp.dll
 C:\Users\ACER\Desktop\MeetingApp\obj\Debug\net7.0\MeetingApp.pdb
 C:\Users\ACER\Desktop\MeetingApp\obj\Debug\net7.0\MeetingApp.genruntimeconfig.cache
 C:\Users\ACER\Desktop\MeetingApp\obj\Debug\net7.0\ref\MeetingApp.dll
+C:\Users\ACER\Desktop\MeetingApp\obj\Debug\net7.0\MeetingApp.sourcelink.json
+C:\Users\ACER\Desktop\MeetingApp\bin\Debug\net7.0\libman.json
+C:\Users\ACER\Desktop\MeetingApp\bin\Debug\net7.0\MeetingApp.staticwebassets.runtime.json

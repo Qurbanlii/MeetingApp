@@ -129,6 +129,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
+      "Id": "C:\\Users\\ACER\\Desktop\\MeetingApp\\wwwroot\\lib\\bootstrap\\css\\styles.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\styles.css"
+    },
+    {
       "Id": "C:\\Users\\ACER\\Desktop\\MeetingApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
     },

@@ -1,3 +1,4 @@
+using MeetingApp.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace MeetingApp.Controllers
@@ -6,7 +7,21 @@ namespace MeetingApp.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+
+            int saat = DateTime.Now.Hour;
+
+            ViewData["Selamlama"] = saat > 12 ? "Iyi gunler" : "Gunaydin";
+            int UserCount = Repository.Users.Where(info => info.WillAttend == true).Count();
+
+
+            var meetingInfo = new MeetingInfo()
+            {
+                Id = 1,
+                Location = "Istanbul,Abc Kongre Merkezi",
+                Date = new DateTime(2024, 01, 20, 20, 0, 0),
+                NumberOfPeople = UserCount
+            };
+            return View(meetingInfo);
         }    
     }
 }

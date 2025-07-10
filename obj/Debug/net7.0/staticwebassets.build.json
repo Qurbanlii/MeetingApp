@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gE6QD1XpaUEBzoZC+aWutu6elAUFUHfklBJ4zhoVXgw=",
+  "Hash": "ZKJrnP9GEWZBs4l0t+DhK6y+9ShZ8IieVTpTDqljn5g=",
   "Source": "MeetingApp",
   "BasePath": "_content/MeetingApp",
   "Mode": "Default",
@@ -687,6 +687,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\ACER\\Desktop\\MeetingApp\\wwwroot\\lib\\bootstrap\\css\\styles.css",
+      "SourceId": "MeetingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ACER\\Desktop\\MeetingApp\\wwwroot\\",
+      "BasePath": "_content/MeetingApp",
+      "RelativePath": "lib/bootstrap/css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o3kwznampo",
+      "Integrity": "xAxm3pG/3LFGtq1wABO7QPjquaoI3gn0IWfDt+aTkNA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\styles.css"
     },
     {
       "Identity": "C:\\Users\\ACER\\Desktop\\MeetingApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
@@ -5495,6 +5516,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-nT58l3sh7kS7jUQSpk9mLmP7uubzG0eeuctQ0P6eOT0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/styles.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MeetingApp\\wwwroot\\lib\\bootstrap\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xAxm3pG/3LFGtq1wABO7QPjquaoI3gn0IWfDt+aTkNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Jul 2025 14:18:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xAxm3pG/3LFGtq1wABO7QPjquaoI3gn0IWfDt+aTkNA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/styles.o3kwznampo.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\MeetingApp\\wwwroot\\lib\\bootstrap\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xAxm3pG/3LFGtq1wABO7QPjquaoI3gn0IWfDt+aTkNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Jul 2025 14:18:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o3kwznampo"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xAxm3pG/3LFGtq1wABO7QPjquaoI3gn0IWfDt+aTkNA="
         }
       ]
     },

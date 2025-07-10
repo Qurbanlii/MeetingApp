@@ -2627,6 +2627,88 @@
       ]
     },
     {
+      "Route": "lib/bootstrap/css/styles.css",
+      "AssetFile": "lib/bootstrap/css/styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xAxm3pG/3LFGtq1wABO7QPjquaoI3gn0IWfDt+aTkNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Jul 2025 14:18:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xAxm3pG/3LFGtq1wABO7QPjquaoI3gn0IWfDt+aTkNA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/styles.o3kwznampo.css",
+      "AssetFile": "lib/bootstrap/css/styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xAxm3pG/3LFGtq1wABO7QPjquaoI3gn0IWfDt+aTkNA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Jul 2025 14:18:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o3kwznampo"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xAxm3pG/3LFGtq1wABO7QPjquaoI3gn0IWfDt+aTkNA="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/css/styles.css"
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/js/bootstrap.bundle.d4zb04w7ih.js",
       "AssetFile": "lib/bootstrap/js/bootstrap.bundle.js",
       "Selectors": [],

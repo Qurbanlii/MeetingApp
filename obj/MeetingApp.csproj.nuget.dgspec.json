@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aliqu\\Source\\Repos\\MeetingApp\\MeetingApp.csproj": {}
+    "C:\\Users\\aliqu\\Desktop\\MeetingApp\\MeetingApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aliqu\\Source\\Repos\\MeetingApp\\MeetingApp.csproj": {
+    "C:\\Users\\aliqu\\Desktop\\MeetingApp\\MeetingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aliqu\\Source\\Repos\\MeetingApp\\MeetingApp.csproj",
+        "projectUniqueName": "C:\\Users\\aliqu\\Desktop\\MeetingApp\\MeetingApp.csproj",
         "projectName": "MeetingApp",
-        "projectPath": "C:\\Users\\aliqu\\Source\\Repos\\MeetingApp\\MeetingApp.csproj",
+        "projectPath": "C:\\Users\\aliqu\\Desktop\\MeetingApp\\MeetingApp.csproj",
         "packagesPath": "C:\\Users\\aliqu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aliqu\\Source\\Repos\\MeetingApp\\obj\\",
+        "outputPath": "C:\\Users\\aliqu\\Desktop\\MeetingApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
